@@ -1,0 +1,221 @@
+{
+    "m_SelectedDeviceId": "PL2GAR9812506734",
+    "m_SelectedPackage": {
+        "deviceId": "PL2GAR9812506734",
+        "name": "com.gamesfusion.truckloader",
+        "processId": 13191,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 23541,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 23982,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 24410,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 24767,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 25119,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 26773,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 27373,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 30656,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 1261,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 3720,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 5663,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 7767,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 8611,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 10155,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 3302,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 5349,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 2701,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 3253,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 4198,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 6723,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 7295,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 7979,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 9053,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 9527,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 11818,
+            "exited": false
+        },
+        {
+            "deviceId": "PL2GAR9812506734",
+            "name": "com.gamesfusion.truckloader",
+            "processId": 13191,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
